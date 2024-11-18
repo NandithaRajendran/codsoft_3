@@ -1,0 +1,28 @@
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff;
+    font-family: 'Roboto Mono', monospace;
+}
+h{
+    color: white;
+    margin-left: 210px;
+}
+
+.clock-container {
+    padding: 20px;
+    border-radius: 10px;
+    background: #1a1a1a;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.6);
+}
+
+.clock {
+    color: #7CFC00;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 2px;
+}
